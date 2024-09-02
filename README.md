@@ -1,6 +1,6 @@
 ![MasterHead](https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/653c5395a20cd20e8f4fb7b5_Freelance%20Software%20Developer%20Everything%20You%20Need%20To%20Know.webp)
 <h1 align="center">Hi 👋, I'm Dilshan Mindika</h1>
-<h3 align="center">A Full Stack Developer | Quality Engineer | UI/UX Designer developer from Sri Lanka</h3>
+<h3 align="center">A Full Stack Developer | Quality Engineer | UI/UX Designer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshots/3848914.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilshan-mindika&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan-mindika" /> </p>
