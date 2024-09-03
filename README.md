@@ -1,11 +1,9 @@
 ![MasterHead](https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/653c5395a20cd20e8f4fb7b5_Freelance%20Software%20Developer%20Everything%20You%20Need%20To%20Know.webp)
 <h1 align="center">Hi 👋, I'm Dilshan Mindika<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
-<h3 align="center">A Full Stack Developer | Quality Engineer | UI/UX Designer from Sri Lanka</h3>
+<h3 align="center">A Full Stack Developer | Quality Engineer | UI/UX Designer from Sri Lanka <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> </h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Technical Lead at <a href="https://www.oneorigin.us/">Web Nexus
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
+</br>
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
@@ -58,8 +56,8 @@ const dila = {
 
 ```text
 🌞 Morning                         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-🌆 Daytime                         ██████████░░░░░░░░░░░░░░░   40.49 % 
-🌃 Evening                         ███████░░░░░░░░░░░░░░░░░░   29.42 % 
+🌆 Daytime                         ███████░░░░░░░░░░░░░░░░░░   29.42 % 
+🌃 Evening                         ██████████░░░░░░░░░░░░░░░   40.49 %
 🌙 Night                           ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
 ```
 📅 **I'm Most Productive on Sunday** 
