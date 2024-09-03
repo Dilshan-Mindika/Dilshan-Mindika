@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/653c5395a20cd20e8f4fb7b5_Freelance%20Software%20Developer%20Everything%20You%20Need%20To%20Know.webp)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dilshan-Mindika.Dilshan-Mindika" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dilshan+Mindika!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dilshan+Mindika;" />
 </h1>
 <h3 align="center">A Full Stack Developer | Quality Engineer | UI/UX Designer from Sri Lanka <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> </h3>
 <br/>
