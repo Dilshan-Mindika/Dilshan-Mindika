@@ -54,7 +54,7 @@ const dila = {
  > -->
 
 <div align="center"> 
-  <a href="dilshanmindika@outlook.com">
+  <a href="mailto:dilshanmindika@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0077B5?style=for-the-badge&logo=outlook" />
   </a>
   <a href="#" target="_blank">
