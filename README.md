@@ -57,7 +57,7 @@ const dila = {
   <a href="mailto:dilshanmindika@outlook.com?subject=your title&body=The message">
     <img src="https://img.shields.io/badge/Outlook-0077B5?style=for-the-badge&logo=outlook" />
   </a>
-  <a href="#" target="_blank">
+  <a href="https://dilshan-mindika-portfolio.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   <a href="https://www.linkedin.com/in/dilshan-mindika-461061180/" target="_blank">
