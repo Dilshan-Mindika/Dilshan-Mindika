@@ -18,23 +18,32 @@ npx dila
 
 ```javascript
 const dila = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP","Nextjs"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography","ui/ux designing"],
+    pronouns: "He/Him",
+    code: ["JavaScript", "Python", "Java", "PHP", "C++", "HTML", "CSS", "SQL"],
+    askMeAbout: ["Web Development", "App Development", "Tech", "UI/UX Design", "Photography"],
     technologies: {
+        frontEnd: {
+            frameworks: ["React", "Vue.js", "Next.js"],
+            styling: ["Tailwind CSS", "Bootstrap"]
+        },
         backEnd: {
-            js: ["Node", "Spring", "Laravel"],
+            languages: ["Java", "PHP", "Node.js", "Python"],
+            frameworks: ["Spring Boot", "Laravel"]
         },
         mobileApp: {
             native: ["Android Development"]
         },
-        devOps: [" "],
-        databases: ["Firebase", "MySql", "MongoDB"],
-        misc: ["Firebase", "php"]
+        devOps: ["Git", "GitHub", "AWS"],
+        databases: ["MySQL", "MongoDB", "Firebase"],
+        misc: ["Figma", "Adobe XD", "Blade", "Jira", "Trello", "ClickUp"]
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Focus about QA Engineering",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    architecture: [
+        "Serverless Architecture",
+        "Progressive Web Applications (PWAs)",
+        "Single Page Applications (SPAs)"
+    ],
+    currentFocus: "Exploring QA Engineering and test automation",
+    funFact: "There are two ways to write error-free programs; only the third one works."
 };
 ```
 
