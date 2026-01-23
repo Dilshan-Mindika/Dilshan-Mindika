@@ -65,14 +65,16 @@ const dila = {
  > -->
 
 <div align="center"> 
-  <a href="mailto:dilshanmindika@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-23272a?style=for-the-badge&logo=outlook&logoColor=0078d4" />
+  <a href="mailto:dilshanmindika@outlook.com" title="Email Me">
+    <img src="https://img.shields.io/badge/Outlook-23272a?style=for-the-badge&logo=microsoftoutlook&logoColor=0078d4" alt="Outlook"/>
   </a>
-  <a href="https://dilshanmindika.pro/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-23272a?style=for-the-badge&logo=googlechrome&logoColor=ef4b55" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://dilshanmindika.pro/" target="_blank" title="Visit My Portfolio">
+     <img src="https://img.shields.io/badge/Portfolio-23272a?style=for-the-badge&logo=googlechrome&logoColor=ef4b55" alt="Portfolio"/> 
   </a>
-  <a href="https://www.linkedin.com/in/dilshan-mindika/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-23272a?style=for-the-badge&logo=linkedin&logoColor=0a66c2" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dilshan-mindika/" target="_blank" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-23272a?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn"/>
   </a>
 </div>
 
