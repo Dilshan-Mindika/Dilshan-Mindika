@@ -66,15 +66,15 @@ const dila = {
 
 <div align="center"> 
   <a href="mailto:dilshanmindika@outlook.com" title="Email Me">
-    <img src="https://img.shields.io/badge/Outlook-23272a?style=for-the-badge&logo=microsoftoutlook&logoColor=0078d4" alt="Outlook"/>
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://dilshanmindika.pro/" target="_blank" title="Visit My Portfolio">
-     <img src="https://img.shields.io/badge/Portfolio-23272a?style=for-the-badge&logo=googlechrome&logoColor=ef4b55" alt="Portfolio"/> 
+     <img src="https://img.shields.io/badge/Portfolio-2EA44F?style=for-the-badge&logoColor=white" alt="Portfolio"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/dilshan-mindika/" target="_blank" title="Connect on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-23272a?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
