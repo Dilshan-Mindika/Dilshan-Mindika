@@ -17,9 +17,10 @@ npx dila
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
+/* <!--START_SECTION:profile_json--> */
 const dila = {
     pronouns: "He/Him",
-    code: ["JavaScript", "Python", "Java", "PHP", "C++", "HTML", "CSS", "SQL"],
+    code: ["JavaScript", "TypeScript", "Java", "PHP", "Python", "Dart", "HTML", "CSS", "SQL"],
     askMeAbout: ["Web Development", "App Development", "Tech", "UI/UX Design", "Photography"],
     technologies: {
         frontEnd: {
@@ -31,9 +32,9 @@ const dila = {
             frameworks: ["Spring Boot", "Laravel"]
         },
         mobileApp: {
-            native: ["Android Development"]
+            native: ["Android Development", "Flutter"]
         },
-        devOps: ["Git", "GitHub", "AWS"],
+        devOps: ["Git", "GitHub", "AWS", "Vercel"],
         databases: ["MySQL", "MongoDB", "Firebase"],
         misc: ["Figma", "Adobe XD", "Blade", "Jira", "Trello", "ClickUp"]
     },
@@ -42,9 +43,10 @@ const dila = {
         "Progressive Web Applications (PWAs)",
         "Single Page Applications (SPAs)"
     ],
-    currentFocus: "Exploring QA Engineering and test automation",
+    currentFocus: "Building Full-Stack Solutions & Test Automation",
     funFact: "There are two ways to write error-free programs; only the third one works."
 };
+/* <!--END_SECTION:profile_json--> */
 ```
 
 <!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
