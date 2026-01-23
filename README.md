@@ -47,27 +47,12 @@ const dila = {
 };
 ```
 
-<!-- <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
-<!--START_SECTION:waka-->
-<!--![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2054%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.1%20k%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 186.8 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > -->
-
 <div align="center"> 
   <a href="mailto:dilshanmindika@outlook.com?subject=your title&body=The message">
     <img src="https://img.shields.io/badge/Outlook-0077B5?style=for-the-badge&logo=outlook" />
   </a>
   <a href="https://dilshanmindika.pro/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   <a href="https://www.linkedin.com/in/dilshan-mindika/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -91,9 +76,9 @@ const dila = {
   <h2>🐍 My Contributions 🐍</h2>
   <br>
  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dilshan-Mindika/Dilshan-Mindika/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dilshan-Mindika/Dilshan-Mindika/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dilshan-Mindika/Dilshan-Mindika/output/github-contribution-grid-snake.svg">
 </picture>
   
   <br/><br/><br/>
@@ -113,54 +98,5 @@ const dila = {
 <hr/>
 <br/>
 
-🐤 **I'm an Early** 
-
-```text
-🌞 Morning                         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-🌆 Daytime                         ███████░░░░░░░░░░░░░░░░░░   29.42 % 
-🌃 Evening                         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 %
-🌙 Night                           ██████████░░░░░░░░░░░░░░░   40.49 %
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                             ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Tuesday                            ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Wednesday                          ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Thursday                           ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Friday                             ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Saturday                           ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Sunday                             ███████░░░░░░░░░░░░░░░░░░   29.42 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Sri Lanka
-
-💬 Programming Languages: 
-JavaScript               17 hrs 17 mins      █████████████████░░░░░░░░   66.15 % 
-Python                   2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Dart                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-
-🔥 Editors: 
-Inteliji                 16 hrs 47 mins      █████████████████░░░░░░░░   68.10 % 
-VS Code                  7 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-PyCharm                  1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-
-💻 Operating System: 
-Windows                  82 hrs 26 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-Java                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-Python                   1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
