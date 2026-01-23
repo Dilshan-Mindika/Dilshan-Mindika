@@ -65,16 +65,15 @@ const dila = {
  > -->
 
 <div align="center"> 
-  <a href="mailto:dilshanmindika@outlook.com?subject=your title&body=The message">
-    <img src="https://img.shields.io/badge/Outlook-0077B5?style=for-the-badge&logo=outlook" />
+  <a href="mailto:dilshanmindika@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-23272a?style=for-the-badge&logo=outlook&logoColor=0078d4" />
   </a>
   <a href="https://dilshanmindika.pro/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-23272a?style=for-the-badge&logo=googlechrome&logoColor=ef4b55" /> 
   </a>
   <a href="https://www.linkedin.com/in/dilshan-mindika/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-23272a?style=for-the-badge&logo=linkedin&logoColor=0a66c2" />
   </a>
-
 </div>
 
  <hr/>
