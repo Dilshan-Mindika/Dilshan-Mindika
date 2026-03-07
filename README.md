@@ -1,5 +1,6 @@
 ![MasterHead](https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/653c5395a20cd20e8f4fb7b5_Freelance%20Software%20Developer%20Everything%20You%20Need%20To%20Know.webp)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dilshan-Mindika.Dilshan-Mindika" />
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dilshan+Mindika;" />
 </h1>
@@ -14,37 +15,54 @@
 npx dila
 ```
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 /* <!--START_SECTION:profile_json--> */
 const dila = {
-    pronouns: "He/Him",
-    code: ["JavaScript", "TypeScript", "Java", "PHP", "Python", "Dart", "HTML", "CSS", "SQL"],
-    askMeAbout: ["Web Development", "App Development", "Tech", "UI/UX Design", "Photography"],
-    technologies: {
-        frontEnd: {
-            frameworks: ["React", "Vue.js", "Next.js"],
-            styling: ["Tailwind CSS", "Bootstrap"]
-        },
-        backEnd: {
-            languages: ["Java", "PHP", "Node.js", "Python"],
-            frameworks: ["Spring Boot", "Laravel"]
-        },
-        mobileApp: {
-            native: ["Android Development", "Flutter"]
-        },
-        devOps: ["Git", "GitHub", "AWS", "Vercel"],
-        databases: ["MySQL", "MongoDB", "Firebase"],
-        misc: ["Figma", "Adobe XD", "Blade", "Jira", "Trello", "ClickUp"]
+  pronouns: "He/Him",
+  code: [
+    "JavaScript",
+    "TypeScript",
+    "Java",
+    "PHP",
+    "Python",
+    "Dart",
+    "HTML",
+    "CSS",
+    "SQL",
+  ],
+  askMeAbout: [
+    "Web Development",
+    "App Development",
+    "Tech",
+    "UI/UX Design",
+    "Photography",
+  ],
+  technologies: {
+    frontEnd: {
+      frameworks: ["React", "Vue.js", "Next.js"],
+      styling: ["Tailwind CSS", "Bootstrap"],
     },
-    architecture: [
-        "Serverless Architecture",
-        "Progressive Web Applications (PWAs)",
-        "Single Page Applications (SPAs)"
-    ],
-    currentFocus: "Building Full-Stack Solutions & Test Automation",
-    funFact: "There are two ways to write error-free programs; only the third one works."
+    backEnd: {
+      languages: ["Java", "PHP", "Node.js", "Python"],
+      frameworks: ["Spring Boot", "Laravel"],
+    },
+    mobileApp: {
+      native: ["Android Development", "Flutter"],
+    },
+    devOps: ["Git", "GitHub", "AWS", "Vercel"],
+    databases: ["MySQL", "MongoDB", "Firebase"],
+    misc: ["Figma", "Adobe XD", "Blade", "Jira", "Trello", "ClickUp"],
+  },
+  architecture: [
+    "Serverless Architecture",
+    "Progressive Web Applications (PWAs)",
+    "Single Page Applications (SPAs)",
+  ],
+  currentFocus: "Building Full-Stack Solutions & Test Automation",
+  funFact:
+    "There are two ways to write error-free programs; only the third one works.",
 };
 /* <!--END_SECTION:profile_json--> */
 ```
@@ -53,9 +71,9 @@ const dila = {
 
 ---
 <!--START_SECTION:waka-->
- > 
+
 > 🚫 Not Opted to Hire
- > -->
+> -->
 
 <div align="center"> 
   <a href="mailto:dilshanmindika@outlook.com" title="Email Me">
@@ -99,64 +117,61 @@ const dila = {
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=dilshan-mindika&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=dilshan-mindika&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilshan-mindika&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dilshan-Mindika/Dilshan-Mindika/output/github-metrics.svg" alt="GitHub Metrics" width="800" />
 </div>
 <br/>
 <hr/>
 <br/>
 
-🐤 **I'm an Early** 
+🐤 **I'm an Early**
 
 ```text
-🌞 Morning                         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-🌆 Daytime                         ███████░░░░░░░░░░░░░░░░░░   29.42 % 
+🌞 Morning                         ████░░░░░░░░░░░░░░░░░░░░░   16.97 %
+🌆 Daytime                         ███████░░░░░░░░░░░░░░░░░░   29.42 %
 🌃 Evening                         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 %
 🌙 Night                           ██████████░░░░░░░░░░░░░░░   40.49 %
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday                             ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Tuesday                            ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
-Wednesday                          ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Thursday                           ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Friday                             ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Saturday                           ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Sunday                             ███████░░░░░░░░░░░░░░░░░░   29.42 % 
+Monday                             ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
+Tuesday                            ████░░░░░░░░░░░░░░░░░░░░░   14.14 %
+Wednesday                          ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
+Thursday                           ███░░░░░░░░░░░░░░░░░░░░░░   13.34 %
+Friday                             ████░░░░░░░░░░░░░░░░░░░░░   16.97 %
+Saturday                           ███░░░░░░░░░░░░░░░░░░░░░░   12.79 %
+Sunday                             ███████░░░░░░░░░░░░░░░░░░   29.42 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Sri Lanka
 
-💬 Programming Languages: 
-JavaScript               17 hrs 17 mins      █████████████████░░░░░░░░   66.15 % 
-Python                   2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Dart                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+💬 Programming Languages:
+JavaScript               17 hrs 17 mins      █████████████████░░░░░░░░   66.15 %
+Python                   2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 %
+Dart                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 
-🔥 Editors: 
-Inteliji                 16 hrs 47 mins      █████████████████░░░░░░░░   68.10 % 
-VS Code                  7 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-PyCharm                  1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+🔥 Editors:
+Inteliji                 16 hrs 47 mins      █████████████████░░░░░░░░   68.10 %
+VS Code                  7 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.57 %
+PyCharm                  1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 
-💻 Operating System: 
-Windows                  82 hrs 26 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  82 hrs 26 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-Java                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
-Python                   1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Java                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.84 %
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+Python                   1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
 ```
