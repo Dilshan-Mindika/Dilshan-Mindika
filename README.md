@@ -1,14 +1,14 @@
-![Cyberpunk Banner](assets/futuristic_banner.png)
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dilshan-Mindika.Dilshan-Mindika&color=cyan" />
-</p>
+![MasterHead](https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/653c5395a20cd20e8f4fb7b5_Freelance%20Software%20Developer%20Everything%20You%20Need%20To%20Know.webp)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dilshan-Mindika.Dilshan-Mindika" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&center=true&vCenter=true&width=600&height=80&duration=3000&color=00f2ff&lines=ACCESSING+SYSTEM...;DILSHAN+MINDIKA+INITIALIZED;FULL+STACK+DEVELOPER+v2.0" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dilshan+Mindika;" />
 </h1>
-<h3 align="center">🚀 Full Stack Developer | Quality Engineer | UI/UX Visionary 🚀</h3>
+<h3 align="center">A Full Stack Developer | Quality Engineer | UI/UX Designer from Sri Lanka <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> </h3>
+<br/>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+</br>
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
@@ -76,23 +76,26 @@ const dila = {
 > -->
 
 <div align="center"> 
-  <a href="mailto:dilshanmindika@outlook.com" title="Direct Uplink: Email">
-    <img src="https://img.shields.io/badge/Outlook-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=00f2ff&labelColor=23272a" />
+  <a href="mailto:dilshanmindika@outlook.com" title="Email Me">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://dilshanmindika.pro/" target="_blank" title="Neural Interface: Portfolio">
-     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlesphere&logoColor=ff00ff&labelColor=23272a" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://dilshanmindika.pro/" target="_blank" title="Visit My Portfolio">
+     <img src="https://img.shields.io/badge/Portfolio-2EA44F?style=for-the-badge&logoColor=white" alt="Portfolio"/> 
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dilshan-mindika/" target="_blank" title="Data Network: LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00f2ff&labelColor=23272a" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dilshan-mindika/" target="_blank" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
  <hr/>
  
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,python,java,php,mysql,mongodb,firebase,git,github,vscode,figma,tailwind,bootstrap" theme="dark" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,firebase,mongodb,c,java,nextjs,mysql" /><br>
 </div>
 
 <br/>
@@ -112,19 +115,13 @@ const dila = {
 
 <hr/>
 
-<h2 align="center">🛸 Neural Activity (Stats) 🛸</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dilshan-Mindika/Dilshan-Mindika/output/github-isocalendar.svg" alt="3D Calendar" width="800" />
-</div>
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dilshan-Mindika/Dilshan-Mindika/output/github-stats.svg" alt="Stats" width="410" />
-  <img src="https://raw.githubusercontent.com/Dilshan-Mindika/Dilshan-Mindika/output/github-habits.svg" alt="Streaks" width="410" />
-</div>
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dilshan-Mindika/Dilshan-Mindika/output/github-languages.svg" alt="Languages" width="800" />
+  <img src="https://raw.githubusercontent.com/Dilshan-Mindika/Dilshan-Mindika/output/github-stats.svg" alt="GitHub Stats" width="410" />
+  <img src="https://raw.githubusercontent.com/Dilshan-Mindika/Dilshan-Mindika/output/github-habits.svg" alt="GitHub Habits" width="410" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/Dilshan-Mindika/Dilshan-Mindika/output/github-languages.svg" alt="Top Languages" width="390" />
 </div>
 <br/>
 <hr/>
