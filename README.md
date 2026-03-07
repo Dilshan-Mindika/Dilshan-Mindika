@@ -1,14 +1,14 @@
-![Professional Tech Banner](assets/professional_banner.png)
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Dilshan-Mindika.Dilshan-Mindika&color=blue" />
-</p>
+![MasterHead](https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/653c5395a20cd20e8f4fb7b5_Freelance%20Software%20Developer%20Everything%20You%20Need%20To%20Know.webp)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Dilshan-Mindika.Dilshan-Mindika" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=2EA44F&lines=Dilshan+Mindika+;Full+Stack+Developer+;Quality+Engineer+;UI/UX+Researcher" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dilshan+Mindika;" />
 </h1>
-<h3 align="center">Passionate Developer | Quality Engineer | Problem Solver</h3>
+<h3 align="center">A Full Stack Developer | Quality Engineer | UI/UX Designer from Sri Lanka <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"> </h3>
+<br/>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+</br>
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
@@ -76,16 +76,16 @@ const dila = {
 > -->
 
 <div align="center"> 
-  <a href="mailto:dilshanmindika@outlook.com" title="Email">
-    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  <a href="mailto:dilshanmindika@outlook.com" title="Email Me">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://dilshanmindika.pro/" target="_blank" title="Portfolio">
-     <img src="https://img.shields.io/badge/Portfolio-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://dilshanmindika.pro/" target="_blank" title="Visit My Portfolio">
+     <img src="https://img.shields.io/badge/Portfolio-2EA44F?style=for-the-badge&logoColor=white" alt="Portfolio"/> 
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/dilshan-mindika/" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/dilshan-mindika/" target="_blank" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
 
@@ -115,14 +115,66 @@ const dila = {
 
 <hr/>
 
-<h2 align="center">📈 Neural Activity (Stats) 📈</h2>
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dilshan-Mindika/Dilshan-Mindika/output/github-stats.svg" alt="Professional Stats" width="800" />
-</div>
-<br>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dilshan-Mindika/Dilshan-Mindika/output/github-habits.svg" alt="Coding Habits & Streaks" width="800" />
+  <img src="https://raw.githubusercontent.com/Dilshan-Mindika/Dilshan-Mindika/output/github-stats.svg" alt="GitHub Stats" width="410" />
+  <img src="https://raw.githubusercontent.com/Dilshan-Mindika/Dilshan-Mindika/output/github-habits.svg" alt="GitHub Habits" width="410" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/Dilshan-Mindika/Dilshan-Mindika/output/github-languages.svg" alt="Top Languages" width="390" />
 </div>
 <br/>
 <hr/>
+<br/>
+
+🐤 **I'm an Early**
+
+```text
+🌞 Morning                         ████░░░░░░░░░░░░░░░░░░░░░   16.97 %
+🌆 Daytime                         ███████░░░░░░░░░░░░░░░░░░   29.42 %
+🌃 Evening                         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 %
+🌙 Night                           ██████████░░░░░░░░░░░░░░░   40.49 %
+```
+
+📅 **I'm Most Productive on Sunday**
+
+```text
+Monday                             ███░░░░░░░░░░░░░░░░░░░░░░   12.59 %
+Tuesday                            ████░░░░░░░░░░░░░░░░░░░░░   14.14 %
+Wednesday                          ████░░░░░░░░░░░░░░░░░░░░░   16.21 %
+Thursday                           ███░░░░░░░░░░░░░░░░░░░░░░   13.34 %
+Friday                             ████░░░░░░░░░░░░░░░░░░░░░   16.97 %
+Saturday                           ███░░░░░░░░░░░░░░░░░░░░░░   12.79 %
+Sunday                             ███████░░░░░░░░░░░░░░░░░░   29.42 %
+```
+
+📊 **This Week I Spent My Time On**
+
+```text
+🕑︎ Time Zone: Asia/Sri Lanka
+
+💬 Programming Languages:
+JavaScript               17 hrs 17 mins      █████████████████░░░░░░░░   66.15 %
+Python                   2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.09 %
+Dart                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
+YAML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+
+🔥 Editors:
+Inteliji                 16 hrs 47 mins      █████████████████░░░░░░░░   68.10 %
+VS Code                  7 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.57 %
+PyCharm                  1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+DataGrip                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+
+💻 Operating System:
+Windows                  82 hrs 26 mins      █████████████████████████   100.00 %
+```
+
+**I Mostly Code in JavaScript**
+
+```text
+Java                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   12.84 %
+TypeScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+CSS                      8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+Python                   1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
+```
