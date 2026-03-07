@@ -118,7 +118,10 @@ const dila = {
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dilshan-Mindika/Dilshan-Mindika/output/github-metrics.svg" alt="GitHub Metrics" width="800" />
+  <img src="https://raw.githubusercontent.com/Dilshan-Mindika/Dilshan-Mindika/output/github-stats.svg" alt="GitHub Stats" width="410" />
+  <img src="https://raw.githubusercontent.com/Dilshan-Mindika/Dilshan-Mindika/output/github-habits.svg" alt="GitHub Habits" width="410" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/Dilshan-Mindika/Dilshan-Mindika/output/github-languages.svg" alt="Top Languages" width="390" />
 </div>
 <br/>
 <hr/>
