@@ -21,17 +21,7 @@ npx dila
 /* <!--START_SECTION:profile_json--> */
 const dila = {
   pronouns: "He/Him",
-  code: [
-    "JavaScript",
-    "TypeScript",
-    "Java",
-    "PHP",
-    "Python",
-    "Dart",
-    "HTML",
-    "CSS",
-    "SQL",
-  ],
+  code: ["JavaScript", "Python", "Java", "PHP", "C++", "HTML", "CSS", "SQL"],
   askMeAbout: [
     "Web Development",
     "App Development",
@@ -49,9 +39,9 @@ const dila = {
       frameworks: ["Spring Boot", "Laravel"],
     },
     mobileApp: {
-      native: ["Android Development", "Flutter"],
+      native: ["Android Development"],
     },
-    devOps: ["Git", "GitHub", "AWS", "Vercel"],
+    devOps: ["Git", "GitHub", "AWS"],
     databases: ["MySQL", "MongoDB", "Firebase"],
     misc: ["Figma", "Adobe XD", "Blade", "Jira", "Trello", "ClickUp"],
   },
@@ -60,7 +50,7 @@ const dila = {
     "Progressive Web Applications (PWAs)",
     "Single Page Applications (SPAs)",
   ],
-  currentFocus: "Building Full-Stack Solutions & Test Automation",
+  currentFocus: "Exploring QA Engineering and test automation",
   funFact:
     "There are two ways to write error-free programs; only the third one works.",
 };
@@ -80,7 +70,7 @@ const dila = {
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Outlook"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://dilshanmindika.pro/" target="_blank" title="Visit My Portfolio">
+  <a href="https://dilshanmindika.online/" target="_blank" title="Visit My Portfolio">
      <img src="https://img.shields.io/badge/Portfolio-2EA44F?style=for-the-badge&logoColor=white" alt="Portfolio"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
